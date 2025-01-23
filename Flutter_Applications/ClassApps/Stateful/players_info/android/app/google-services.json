@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "766832131820",
+    "project_id": "playersinfo-b6de9",
+    "storage_bucket": "playersinfo-b6de9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766832131820:android:9b8c11a7c65ab924ee6fc9",
+        "android_client_info": {
+          "package_name": "com.example.players_info"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhq31rUpToEj6gGxJU8jrLNmY-TBxvUMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
